@@ -1,0 +1,8 @@
+Branch
+git branch development
+-> membuat branch bernama development
+git status
+git branch
+-> mengecek pada posisi di mana kita berada
+git checkout development
+-> switching to branch

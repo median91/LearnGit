@@ -1,0 +1,16 @@
+git command
+git init <directory>
+-> fungsinya untuk melaksanakan inisiasi pada direktori. <> tergolong opsional
+git status
+-> fungsinya untuk melihat status yang terjadi dalam git.
+git commit -m "<kalimat penanda>"
+-> fungsinya sebagai penyimpan dan penanda
+git log
+-> catatan git
+git reset
+-> reset commit
+
+istilah
+commit hash: 2bd4fa17f86c2413e5e55b1def18191e0db24540 (contoh)
+
+Pembelajaran tentang git. Problem git pada windows, WSL mungkin bergantung pada directory-nya yang dalam.
